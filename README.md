@@ -12,7 +12,10 @@ This pull request template helps you complete an application to the **Class of 2
 - [X] I understand I should not tag or add a reviewer to this Pull Request.
 - [X] I have [added the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20210605T160000Z%2F20210605T173000Z&text=GitHub%20Graduation%20%F0%9F%8E%93&location=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&details=) to my Calendar.
 
-#name: Adam Smith
-#institution: College Of Southern Nevada
-#quote: Do Or Do Not. There Is No Try
-#Github_user: jtmlock
+# name: Adam Smith
+
+# institution: College Of Southern Nevada
+
+# quote: Do Or Do Not. There Is No Try
+
+# Github_user: jtmlock
